@@ -1,2 +1,2 @@
-# Projeto-Introdut-rio
+# Projeto-Introdutório
 Repositório para projetos provenientes do programa Acelera ZG
